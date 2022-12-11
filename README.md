@@ -14,7 +14,7 @@ The blog is open for all, collaboration is key to sharing and strenghtening ever
 
 To participate you need to:
 
-1. Sign up.
+1. Sign up
 
     __Note:__ joindacloud follows and applies all the policies described in the GDPR and FERPA.
 
